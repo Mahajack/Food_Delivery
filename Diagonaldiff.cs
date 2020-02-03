@@ -39,7 +39,7 @@ public class Diagonal
 					{4 , 5, 6}, 
 					{10, 8,-12}}; 
 	
-		Console.WriteLine("The Diagonal Difference is : " + difference(arr, n)); 
+		Console.WriteLine("The Diagonal Difference is: " + difference(arr, n)); 
 		
 	}  
 } 
